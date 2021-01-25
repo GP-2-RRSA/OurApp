@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item android:id="@+id/item"
+      android:icon="@drawable/ic_baseline_vpn_key_24"
+      android:title="أغراضي" />
+
+<item android:id="@+id/location"
+      android:icon="@drawable/ic_baseline_location_on_24"
+      android:title="خريطتي" />
+<item android:id="@+id/group"
+      android:icon="@drawable/ic_group"
+      android:title="مجموعاتي" />
+
+<item android:id="@+id/person"
+      android:icon="@drawable/ic_baseline_person_24"
+      android:title="حسابي" />
+
+</menu>
